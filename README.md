@@ -109,55 +109,6 @@ PDF Extactor/
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) v18 or later (recommended: v20+)
-- [npm](https://www.npmjs.com/) v9 or later
-- Windows 10 / 11
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/prosecs/pdf-extractor.git
-cd pdf-extractor
-
-# Install dependencies
-npm install
-```
-
-### Development
-
-```bash
-# Start in development mode (hot-reload)
-npm run dev
-```
-
-This launches the Electron app with Vite's dev server — changes to React components will hot-reload instantly.
-
-### Build & Package
-
-```bash
-# Build for production
-npm run build
-
-# Package as Windows installer (.exe)
-npm run package
-
-# Package as unpacked directory (faster, for testing)
-npm run package:dir
-```
-
-The installer will be output to the `release/` directory:
-
-```
-release/PDF Extractor by Prosecs Setup 1.0.0.exe
-```
-
----
-
 ## Usage
 
 1. **Open the app** — Double-click the installed application or run `npm run dev` for development.
