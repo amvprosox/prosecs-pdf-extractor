@@ -47,6 +47,16 @@ No cloud uploads. No subscriptions. Everything runs locally on your machine.
 
 ---
 
+<p align="center">
+  <img src="1.png" alt="Version" />
+  <img src="2.png" alt="Version" />
+  <img src="3.png" alt="Version" />
+  <img src="4.png" alt="Version" />
+  <img src="5.png" alt="Version" />
+</p>
+
+---
+
 ## Tech Stack
 
 | Layer | Technology |
