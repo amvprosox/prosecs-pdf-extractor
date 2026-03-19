@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="build/icon.png" alt="PDF Extractor by Prosecs" width="120" height="120" style="border-radius: 20px;" />
+  <img src="/1362745.png alt="PDF Extractor by Prosecs" width="120" height="120" style="border-radius: 20px;" />
 </p>
 
 <h1 align="center">PDF Extractor by Prosecs</h1>
